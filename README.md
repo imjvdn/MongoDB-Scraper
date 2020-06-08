@@ -7,10 +7,12 @@
 - Node
 - Express
 - Handlebars
+- Express-Handlebars
 - Axios
 - jQuery
 - MongoDB
 - Mongoose
+- Morgan
 - Cheerio
 
 ```bash
