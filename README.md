@@ -17,7 +17,7 @@
 npm install i
 ```
 
-# All technologies must be installed for the program to work locally
+All technologies must be installed for the program to work locally
 
 ### Once articles have been returned the user can save the articles of their choosing with the 'save' button
 
